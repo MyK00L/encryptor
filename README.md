@@ -1,4 +1,5 @@
 # ENCRYPTOR
+# DON'T USE THIS, IT'S BAD
 ### © 2018 Michael Chelli.
 This is a simple app made with cordova to encrypt strings.
 
